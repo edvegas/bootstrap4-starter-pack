@@ -1,5 +1,5 @@
 # Bootstrap 4 starter pack
-All necessary packages to install NodeJS with BS4 and other packages
+All necessary packages to install BS4 and other packages
 
 
 to use, run this command in shell:
